@@ -1,7 +1,8 @@
 Git is a distributed version control system.
-Git is free software.
+Git is free software distributed under the GPL.
 git
 what is git?
+
 
 
 初始化一个Git仓库，使用git init命令。
