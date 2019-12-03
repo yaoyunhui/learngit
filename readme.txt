@@ -23,3 +23,6 @@ $ git add readme.txt
 同样没有任何输出。在执行第二步git commit之前，我们再运行git status看看当前仓库的状态：
 
 $ git commit -m "add distributed"
+
+
+保存一个快照
