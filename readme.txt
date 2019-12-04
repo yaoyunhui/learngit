@@ -66,3 +66,10 @@ no changes added to commit (use "git add" and/or "git commit -a")
 
 $ git rm test.txt
 $ git commit -m "add test.txt"
+
+
+远程仓库
+
+1,注册一个GitHub账号
+
+$ git push origin master
